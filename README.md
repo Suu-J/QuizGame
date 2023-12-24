@@ -1,2 +1,2 @@
-Made using Java Swing and AWT
-
+-	Designed and developed the quiz game application using Abstract Window Toolkit and Swing for the GUI and the interactive interface.
+-	Utilized OOP principles for score tracking, game logic implementation and timer functionality.
